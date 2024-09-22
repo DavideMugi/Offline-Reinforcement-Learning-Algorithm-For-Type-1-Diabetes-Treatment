@@ -1,1 +1,1 @@
-Offline reinforcement learning Twin Delayed Deep Deterministic (T3D) Policy Gradient with Behavioral Cloning (BC) algorithm for type 1 diabetes treatment. Inspired by the work of Emerson et al.
+Offline reinforcement learning Twin Delayed Deep Deterministic (T3D) Policy Gradient with Behavioral Cloning (BC) algorithm for type 1 diabetes (T1D) treatment. Inspired by the work of Emerson et al. "Offline Reinforcement Learning for Safer Blood Glucose Control in People with Type 1 Diabetes".
